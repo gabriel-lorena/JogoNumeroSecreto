@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jogo do Número Secreto</title>
-</head>
-<body>
-    <header>
-        <h1>Jogo do Número Secreto</h1>
-    </header>
-    <main>
-        <section id="sobre">
+<h1>Jogo do Número Secreto</h1>
+
             <h2>🗎 Sobre o Projeto</h2>
             <p>
                 <strong>"Jogo do Número Secreto"</strong> é um projeto desenvolvido durante a formação 
